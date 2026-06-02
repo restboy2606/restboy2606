@@ -1,105 +1,40 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=12" width="100%"/>
+<h1 align="center">안녕하세요, restboy2606입니다 👋</h1>
 
-```
-██████╗ ███████╗███████╗████████╗██████╗  ██████╗ ██╗   ██╗
-██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗╚██╗ ██╔╝
-██████╔╝█████╗  ███████╗   ██║   ██████╔╝██║   ██║ ╚████╔╝ 
-██╔══██╗██╔══╝  ╚════██║   ██║   ██╔══██╗██║   ██║  ╚██╔╝  
-██║  ██║███████╗███████║   ██║   ██████╔╝╚██████╔╝   ██║   
-╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═════╝  ╚═════╝    ╚═╝   
-                                              2 6 0 6
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=쉬었다가+다시+시작합니다.;AI로+커리어+리부트+중입니다.;배운+것들을+여기에+기록합니다." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=PRESS+START+TO+BEGIN;CAREER+REBOOT+IN+PROGRESS...;LOADING+AI+SKILLS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91" />
-
-<img src="https://komarev.com/ghpvc/?username=restboy2606&label=VISITORS&color=00ff41&style=flat" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=restboy2606&label=Profile+views&color=6C63FF&style=flat" />
+</p>
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║         PLAYER  SELECT               ║
-╚══════════════════════════════════════╝
-```
+## 👤 About Me
 
-```
-NAME    : restboy2606
-CLASS   : Beginner (AI Trainee)
-LEVEL   : 1
-EXP     : ████░░░░░░░░░░░░  now grinding
-BIRTH   : 1992
-PREV JOB: Non-profit Admin (cleared)
-STATUS  : CAREER REBOOT
-```
+- 🏢 전직: 비영리 사단법인 총무 (2026.02 퇴사)
+- 🔄 현재: AI/디지털 역량 교육을 통해 커리어 전환 준비 중
+- 🎓 수도권ICT이노베이션스퀘어 **쉬었음 청년 디지털 맞춤 교육** 수강 중
+- 📍 서울 / 1992년생
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║            STAGE  01                 ║
-║         NOW  LEARNING                ║
-╚══════════════════════════════════════╝
-```
+## 🌱 Now Learning
 
-```
-► AI 기초 & 프롬프트 엔지니어링  [▓▓▓▓░░░░]  IN PROGRESS
-► Python                        [▓▓░░░░░░]  IN PROGRESS  
-► GitHub & 버전관리              [▓▓▓░░░░░]  IN PROGRESS
-► LLM 기반 서비스 개발           [▓░░░░░░░]  LOCKED 🔒
-```
+- AI 기초 & 프롬프트 엔지니어링
+- Python
+- GitHub & 버전 관리
+- LLM 기반 서비스 개발
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║            STAGE  02                 ║
-║           FINAL  BOSS                ║
-╚══════════════════════════════════════╝
-```
+## 🎯 Goal
 
-```
-  행정/총무 경험  +  AI 기술
-         ↓
-  실제로 쓸 수 있는 걸 만드는 사람
-         ↓
-       취업 💀 (not cleared yet)
-```
+행정 경험을 바탕으로 AI 기술을 더해  
+**실용적인 서비스를 만드는 사람**이 되는 것
 
 ---
 
-```
-╔══════════════════════════════════════╗
-║            GAME  INFO                ║
-╚══════════════════════════════════════╝
-
-  2026.02  퇴사 .............. CLEARED
-  2026.06  AI 교육 시작 ....... IN PROGRESS
-  수도권ICT이노베이션스퀘어
-  쉬었음 청년 디지털 맞춤 교육
-```
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=restboy2606&show_icons=true&theme=chartreuse-dark&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d0d0d&border_color=00ff41&hide_border=false)
-
-</div>
-
----
-
-<div align="center">
-
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█  GAME NOT OVER. STILL PLAYING.      █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-`© 2026 restboy2606` | `INSERT COIN TO CONTINUE`
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
