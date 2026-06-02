@@ -2,9 +2,7 @@
 
 <h1 align="center">안녕하세요, 임종권입니다 👋</h1>
 
-<p align="center">
-  🚀 Career Reboot in Progress &nbsp;·&nbsp; 🤖 Learning AI &nbsp;·&nbsp; 🌱 Growing Every Day
-</p>
+<img src="./ticker.svg" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=restboy2606&label=Profile+views&color=6C63FF&style=flat" />

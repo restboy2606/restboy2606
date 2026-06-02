@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <defs>
+    <style>
+      @keyframes scrollLeft {
+        from { transform: translateX(800px); }
+        to   { transform: translateX(-1200px); }
+      }
+      @keyframes scrollRight {
+        from { transform: translateX(-1200px); }
+        to   { transform: translateX(800px); }
+      }
+      @keyframes flicker {
+        0%, 85%, 89%, 93%, 100% { opacity: 1; }
+        87%, 91% { opacity: 0.05; }
+      }
+      .sl  { animation: scrollLeft  18s linear infinite; }
+      .sl2 { animation: scrollLeft  18s linear infinite; animation-delay: -9s; }
+      .sr  { animation: scrollRight 18s linear infinite; }
+      .sr2 { animation: scrollRight 18s linear infinite; animation-delay: -9s; }
+      .fl  { animation: flicker 7s ease-in-out infinite; }
+      .t1  { font-family: 'Arial Black', Arial, sans-serif; font-size: 13px; font-weight: 900; fill: #FFFFFF; letter-spacing: 3px; }
+      .t2  { font-family: 'Arial Black', Arial, sans-serif; font-size: 13px; font-weight: 900; fill: #FFFFFF; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <!-- Band 1: 블랙 / 방향 -->
+  <g transform="rotate(-11, 400, 80)">
+    <rect x="-300" y="52" width="1400" height="56" fill="#111111"/>
+    <g class="fl">
+      <g class="sl">
+        <text class="t1" y="85">임종권  ·  서울  ·  1992년생  ·  AI 교육 중  ·  구직 준비 중  ·</text>
+      </g>
+      <g class="sl2">
+        <text class="t1" y="85">임종권  ·  서울  ·  1992년생  ·  AI 교육 중  ·  구직 준비 중  ·</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Band 2: 슈프림 레드 \ 방향 -->
+  <g transform="rotate(11, 400, 80)">
+    <rect x="-300" y="52" width="1400" height="56" fill="#EE1C25"/>
+    <g class="sr">
+      <text class="t2" y="85">JONGKWON LIM  ·  SEOUL  ·  BORN 1992  ·  AI LEARNER  ·  OPEN TO WORK  ·</text>
+    </g>
+    <g class="sr2">
+      <text class="t2" y="85">JONGKWON LIM  ·  SEOUL  ·  BORN 1992  ·  AI LEARNER  ·  OPEN TO WORK  ·</text>
+    </g>
+  </g>
+
+</svg>
