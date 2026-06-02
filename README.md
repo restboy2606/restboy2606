@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
 
-<h1 align="center">안녕하세요, restboy2606입니다 👋</h1>
+<h1 align="center">안녕하세요, 임종권입니다 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=쉬었다가+다시+시작합니다.;AI로+커리어+리부트+중입니다.;배운+것들을+여기에+기록합니다." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Career+Reboot+in+Progress;Learning+AI+from+Scratch;Building+Something+New" />
 </p>
 
 <p align="center">
