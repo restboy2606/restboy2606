@@ -2,9 +2,9 @@
 
 <h1 align="center">안녕하세요, 임종권입니다 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Career+Reboot+in+Progress;Learning+AI+from+Scratch;Building+Something+New" />
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="4">
+🚀 Career Reboot in Progress &nbsp;&nbsp;&nbsp; ✨ Learning AI from Scratch &nbsp;&nbsp;&nbsp; 🛠️ Building Something New &nbsp;&nbsp;&nbsp; 📍 Seoul, 1992 &nbsp;&nbsp;&nbsp;
+</marquee>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=restboy2606&label=Profile+views&color=6C63FF&style=flat" />
