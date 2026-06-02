@@ -2,9 +2,21 @@
 
 <h1 align="center">안녕하세요, 임종권입니다 👋</h1>
 
-<marquee behavior="scroll" direction="left" scrollamount="4">
-🚀 Career Reboot in Progress &nbsp;&nbsp;&nbsp; ✨ Learning AI from Scratch &nbsp;&nbsp;&nbsp; 🛠️ Building Something New &nbsp;&nbsp;&nbsp; 📍 Seoul, 1992 &nbsp;&nbsp;&nbsp;
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6" style="font-size:16px;">
+&nbsp;
+🟢 AI기술 <b>▲ +999%</b> &nbsp;｜&nbsp;
+🔴 백수기간 <b>▼ -26개월</b> &nbsp;｜&nbsp;
+🟢 학습의지 <b>▲ +100%</b> &nbsp;｜&nbsp;
+🔴 통장잔고 <b>▼ -∞</b> &nbsp;｜&nbsp;
+🟡 Python <b>◆ LOADING...</b> &nbsp;｜&nbsp;
+🟢 GitHub커밋 <b>▲ 신규상장</b> &nbsp;｜&nbsp;
+🔴 취업현황 <b>▼ 미체결</b> &nbsp;｜&nbsp;
+🟢 커리어리부트 <b>▲ 진행중</b> &nbsp;
 </marquee>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=restboy2606&label=Profile+views&color=6C63FF&style=flat" />
